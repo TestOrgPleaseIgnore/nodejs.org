@@ -1,7 +1,5 @@
 #! /usr/bin/env node
 
-'use strict'
-
 // BUILD.JS: This file is responsible for building static HTML pages
 
 const Metalsmith = require('metalsmith')
