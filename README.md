@@ -14,7 +14,7 @@ This repo's issues section has become the primary home for the Website WG's coor
 
 ## Contributing
 
-Please contribute! There's plenty of [good first contributions](https://github.com/nodejs/nodejs.org/labels/good%20first%20contribution) to do.
+**Please** contribute! There's plenty of [good first contributions](https://github.com/nodejs/nodejs.org/labels/good%20first%20contribution) to do.
 
 ```bash
 $ git clone https://github.com/nodejs/nodejs.org.git
